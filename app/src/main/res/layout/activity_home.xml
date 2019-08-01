@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="10dp">
+
+    <Button
+        android:onClick="openTb"
+        android:text="Time Table Management"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:onClick="openIt"
+        android:layout_marginTop="25dp"
+        android:text="Internals Management"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="HardcodedText" />
+    <Button
+        android:onClick="openCir"
+        android:layout_marginTop="25dp"
+        android:text="Circulars Management"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="HardcodedText" />
+    <Button
+        android:onClick="openLib"
+        android:layout_marginTop="25dp"
+        android:text="Library Management"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="HardcodedText" />
+    <Button
+        android:onClick="openAttendance"
+        android:layout_marginTop="25dp"
+        android:text="Attendance Management"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="HardcodedText" />
+    <Button
+        android:onClick="openBusSharing"
+        android:layout_marginTop="25dp"
+        android:text="Share Bus Location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="HardcodedText" />
+</LinearLayout>

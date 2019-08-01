@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "131248813603",
+    "firebase_url": "https://smart-college-management.firebaseio.com",
+    "project_id": "smart-college-management",
+    "storage_bucket": "smart-college-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131248813603:android:f783bd66c4dbc8ac",
+        "android_client_info": {
+          "package_name": "com.example.adminapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131248813603-nhdje2vgqscl924tp93572ooi98a1o54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminapplication",
+            "certificate_hash": "cf6c285d90f20852d746965c74114a53c6834430"
+          }
+        },
+        {
+          "client_id": "131248813603-d6cq77ogmkme718l0ukfo7h6eh8ek4k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJbv-qy7RFrtWD6wtcu9esYZB2RF22X_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131248813603-d6cq77ogmkme718l0ukfo7h6eh8ek4k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131248813603:android:7808cd450e729b4e",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimagetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131248813603-41euumg2f1g3v5lv7jr6vbppnkar91le.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseimagetest",
+            "certificate_hash": "cf6c285d90f20852d746965c74114a53c6834430"
+          }
+        },
+        {
+          "client_id": "131248813603-d6cq77ogmkme718l0ukfo7h6eh8ek4k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJbv-qy7RFrtWD6wtcu9esYZB2RF22X_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131248813603-d6cq77ogmkme718l0ukfo7h6eh8ek4k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131248813603:android:d05256771636a041",
+        "android_client_info": {
+          "package_name": "com.example.my_project003"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131248813603-3tbo28do4fs9s60dqbfe6g5mcosdc5fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_project003",
+            "certificate_hash": "cf6c285d90f20852d746965c74114a53c6834430"
+          }
+        },
+        {
+          "client_id": "131248813603-d6cq77ogmkme718l0ukfo7h6eh8ek4k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJbv-qy7RFrtWD6wtcu9esYZB2RF22X_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131248813603-d6cq77ogmkme718l0ukfo7h6eh8ek4k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

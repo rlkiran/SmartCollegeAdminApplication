@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".LibraryManagement">
+
+<EditText
+    android:id="@+id/ed_search"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentStart="true"
+    android:layout_marginTop="10dp"
+    android:layout_marginStart="20dp"
+    android:hint="Search book"
+    tools:ignore="HardcodedText,UnusedAttribute"
+    android:importantForAutofill="no"
+    android:inputType="text" />
+
+<ImageButton
+    android:layout_marginTop="10dp"
+    android:id="@+id/ib_search"
+    android:layout_width="50dp"
+    android:layout_height="50dp"
+    android:layout_marginEnd="25dp"
+    android:layout_alignParentEnd="true"
+    android:onClick="changeData"
+    android:src="@drawable/ic_search"
+    tools:ignore="ContentDescription" />
+
+
+<android.support.v7.widget.RecyclerView
+    android:layout_below="@+id/ed_search"
+    android:layout_marginTop="10dp"
+    android:id="@+id/recycler1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    />
+
+
+
+
+</RelativeLayout>
